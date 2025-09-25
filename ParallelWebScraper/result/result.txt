@@ -1,0 +1,15 @@
+avg_book_price: 34.576
+books_1_word: 46
+books_5_star: 196
+cheap_books: 196
+10 cheapest books: 
+10 An Abundance of Katherines
+10.01 The Origin of Species
+10.02 The Tipping Point: How Little Things Can Make a Big Difference
+10.16 Patience
+10.23 Greek Mythic History
+10.27 The Fellowship of the Ring (The Lord of the Rings #1)
+10.29 History of Beauty
+10.4 The Lucifer Effect: Understanding How Good People Turn Evil
+10.41 NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond
+10.56 Pet Sematary
